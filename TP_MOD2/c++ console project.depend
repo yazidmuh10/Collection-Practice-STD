@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664722762 source:d:\semester 3\struktur data\praktikum\week 2\c++ console project\main.cpp
+	"hello.h"
+
+1664716248 d:\semester 3\struktur data\praktikum\week 2\c++ console project\hello.h
+	<iostream>
+	<cstdlib>
+
+1664719145 source:d:\semester 3\struktur data\praktikum\week 2\c++ console project\hello.cpp
+	"hello.h"
+

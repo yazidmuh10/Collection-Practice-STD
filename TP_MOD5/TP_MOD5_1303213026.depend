@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1666535666 source:c:\dev\c++\tp_mod5_1303213026\menu.cpp
+	"menu.h"
+
+1666515925 c:\dev\c++\tp_mod5_1303213026\menu.h
+	<iostream>
+
+1666535629 source:c:\dev\c++\tp_mod5_1303213026\main.cpp
+	"menu.h"
+
+1666544569 source:d:\semester 3\struktur data\praktikum\week 5\tp_mod5_1303213026\main.cpp
+	"menu.h"
+
+1666515925 d:\semester 3\struktur data\praktikum\week 5\tp_mod5_1303213026\menu.h
+	<iostream>
+
+1666535666 source:d:\semester 3\struktur data\praktikum\week 5\tp_mod5_1303213026\menu.cpp
+	"menu.h"
+

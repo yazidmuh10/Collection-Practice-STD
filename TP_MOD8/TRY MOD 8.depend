@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668267157 source:c:\dev\praktikum std\try mod 8\csll.cpp
+	"CSLL.h"
+
+1668254372 c:\dev\praktikum std\try mod 8\csll.h
+	<iostream>
+	<string>
+
+1668267151 source:c:\dev\praktikum std\try mod 8\main.cpp
+	"CSLL.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1665303135 source:d:\semester 3\struktur data\praktikum\week 3\tugas praktikum minggu 3\main.cpp
+	"member.h"
+
+1665302326 d:\semester 3\struktur data\praktikum\week 3\tugas praktikum minggu 3\member.h
+	<iostream>
+	<cstdlib>
+
+1665302839 source:d:\semester 3\struktur data\praktikum\week 3\tugas praktikum minggu 3\member.cpp
+	"member.h"
+
+1665303135 source:d:\semester 3\struktur data\praktikum\week 3\file_tp_1303213026\main.cpp
+	"member.h"
+
+1665302326 d:\semester 3\struktur data\praktikum\week 3\file_tp_1303213026\member.h
+	<iostream>
+	<cstdlib>
+
+1665303237 source:d:\semester 3\struktur data\praktikum\week 3\file_tp_1303213026\member.cpp
+	"member.h"
+

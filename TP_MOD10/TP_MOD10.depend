@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669465752 source:c:\dev\praktikum std\tp_mod10\main.cpp
+	"stack.h"
+
+1669465535 source:c:\dev\praktikum std\tp_mod10\stack.cpp
+	"stack.h"
+
+1669465100 c:\dev\praktikum std\tp_mod10\stack.h
+	<iostream>
+	<string>
+

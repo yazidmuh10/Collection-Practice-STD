@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1667747865 source:d:\semester 3\struktur data\praktikum\week 7\tp_mod7\dll.cpp
+	"DLL.h"
+
+1667747927 d:\semester 3\struktur data\praktikum\week 7\tp_mod7\dll.h
+	<iostream>
+	<string>
+
+1667747865 source:d:\semester 3\struktur data\praktikum\week 7\tp_mod7\main.cpp
+	"DLL.h"
+
+1667748911 source:g:\tp_mod7\dll.cpp
+	"DLL.h"
+
+1667748911 g:\tp_mod7\dll.h
+	<iostream>
+	<string>
+
+1667749327 source:c:\dev\praktikum std\tp_mod7\tp_mod7\dll.cpp
+	"DLL.h"
+
+1667749327 c:\dev\praktikum std\tp_mod7\tp_mod7\dll.h
+	<iostream>
+	<string>
+
+1667753679 source:c:\dev\praktikum std\tp_mod7\tp_mod7\main.cpp
+	"DLL.h"
+
+1667749327 source:c:\dev\praktikum std\tp_mod7\dll.cpp
+	"DLL.h"
+
+1667749327 c:\dev\praktikum std\tp_mod7\dll.h
+	<iostream>
+	<string>
+
+1667753679 source:c:\dev\praktikum std\tp_mod7\main.cpp
+	"DLL.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667055216 source:c:\dev\praktikum std\try-mod6\main.cpp
+	"DLL.h"
+
+1667054715 c:\dev\praktikum std\try-mod6\dll.h
+	<iostream>
+	<string>
+
+1667055192 source:c:\dev\praktikum std\try-mod6\dll.cpp
+	"DLL.h"
+

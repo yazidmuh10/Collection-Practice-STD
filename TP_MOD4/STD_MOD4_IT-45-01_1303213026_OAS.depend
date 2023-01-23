@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1665944629 source:c:\users\praktikan\documents\praktik\std_mod4_it-45-01_1303213026_oas\listpasien.cpp
+	"listpasien.h"
+
+1665943685 c:\users\praktikan\documents\praktik\std_mod4_it-45-01_1303213026_oas\listpasien.h
+	<iostream>
+
+1665944369 source:c:\users\praktikan\documents\praktik\std_mod4_it-45-01_1303213026_oas\main.cpp
+	"listpasien.h"
+
+1665944369 source:d:\semester 3\struktur data\praktikum\week 4\std_mod4_it-45-01_1303213026_oas\main.cpp
+	"listpasien.h"
+
+1665943685 d:\semester 3\struktur data\praktikum\week 4\std_mod4_it-45-01_1303213026_oas\listpasien.h
+	<iostream>
+
